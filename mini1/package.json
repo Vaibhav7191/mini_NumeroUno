@@ -1,0 +1,19 @@
+{
+  "name": "mini1",
+  "version": "1.0.0",
+  "description": "Starting off with this mini(Numero Uno) project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhav7191/mini_NumeroUno.git"
+  },
+  "author": "Vaibhav Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhav7191/mini_NumeroUno/issues"
+  },
+  "homepage": "https://github.com/Vaibhav7191/mini_NumeroUno#readme"
+}
